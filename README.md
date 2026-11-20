@@ -1,4 +1,4 @@
-# ⭐ Review Posts
+# Review Posts
 
 **Turn your 5-star reviews into Instagram posts in your own brand, in about 5 minutes a week.**
 
@@ -47,7 +47,7 @@ The same skill, set up for two made-up businesses: a landscaper with photos, and
 
 ### Step 1: Download this file
 
-👉 **[Download `review-posts.zip`](https://github.com/javiervillag/review-posts/raw/main/review-posts.zip)**
+**[Download `review-posts.zip`](https://github.com/javiervillag/review-posts/raw/main/review-posts.zip)**
 
 Leave it as a .zip. Don't unzip it.
 
@@ -61,7 +61,7 @@ We recommend the **Claude desktop app with Cowork** ([free download](https://cla
 4. Make sure its switch is **on**.
 5. Go to **Settings**, then **Capabilities**, and turn on **"Code execution and file creation"** (it may be called "Create and edit files").
 
-> 💡 **On the free Claude plan?** It still works. You'll paste your reviews into the chat yourself, and send your logo if Claude can't open your website. Cowork and the browser features need a paid plan (Pro or higher).
+> **On the free Claude plan?** It still works. You'll paste your reviews into the chat yourself, and send your logo if Claude can't open your website. Cowork and the browser features need a paid plan (Pro or higher).
 
 <details>
 <summary><b>Using ChatGPT instead? Click here.</b></summary>
@@ -80,10 +80,10 @@ Claude will ask for two things:
 2. **Where your reviews are:** Google, Yelp, BBB, Facebook, Trustpilot, Houzz, Angi, Nextdoor, or your own website. Paste the links, or let it find them.
 
 Then it will:
-- 🎨 **Pull your brand** from your website: logo, colors and fonts.
-- 📸 **Pick background photos:** your own (from your website, or ones you send) or free stock photos that fit your business and area.
-- 👀 **Show you the looks** (big quote, review card, brand color, carousel) with your logo, so you can pick a favorite.
-- ✍️ **Set up your captions:** your phone number or booking link, plus a few hashtags.
+- **Pull your brand** from your website: logo, colors and fonts.
+- **Pick background photos:** your own (from your website, or ones you send) or free stock photos that fit your business and area.
+- **Show you the looks** (big quote, review card, brand color, carousel) with your logo, so you can pick a favorite.
+- **Set up your captions:** your phone number or booking link, plus a few hashtags.
 
 ---
 
@@ -92,9 +92,9 @@ Then it will:
 > **Make review posts**
 
 You get:
-- 🖼️ **Posts for new 5-star reviews only.** Reviews already turned into posts are skipped.
-- ✍️ **A caption** for each post
-- 📋 **An approval sheet** that opens in Excel or Google Sheets, with Approve and Posted columns
+- **Posts for new 5-star reviews only.** Reviews already turned into posts are skipped.
+- **A caption** for each post
+- **An approval sheet** that opens in Excel or Google Sheets, with Approve and Posted columns
 
 **It never posts anything.** You choose what goes out and when.
 
@@ -102,18 +102,18 @@ You get:
 
 ## Change anything, any time, just by asking
 
-- 📸 *"Use these photos as backgrounds"*, or *"remove the photo with the pool"*
-- 🎨 *"Make the logo bigger"*, or *"change the gold to our orange"*
-- 🧩 *"Only use the review card look"*, or *"no carousels"*
-- ⭐ *"Add our Yelp reviews"*
-- ✍️ *"End captions with 'Book online at…'"*
+- *"Use these photos as backgrounds"*, or *"remove the photo with the pool"*
+- *"Make the logo bigger"*, or *"change the gold to our orange"*
+- *"Only use the review card look"*, or *"no carousels"*
+- *"Add our Yelp reviews"*
+- *"End captions with 'Book online at…'"*
 
 ## Good to know
 
-- ✏️ **Word for word:** reviews are never rewritten. The one exception: some sites (BBB) hide staff names. Those become a plain phrase like "The owner", and every change is listed in the approval sheet.
-- ⭐ **5-star only**, unless you ask for 4-star reviews too.
-- 📷 **Customer photos:** if a reviewer attached a photo of the work, it becomes the background for their post.
-- 🖼️ **Photos:** the skill uses only your own photos, or free stock photos that allow commercial use (credited in a credits file). It never takes images from Google Images or competitors.
+- **Word for word:** reviews are never rewritten. The one exception: some sites (BBB) hide staff names. Those become a plain phrase like "The owner", and every change is listed in the approval sheet.
+- **5-star only**, unless you ask for 4-star reviews too.
+- **Customer photos:** if a reviewer attached a photo of the work, it becomes the background for their post.
+- **Photos:** the skill uses only your own photos, or free stock photos that allow commercial use (credited in a credits file). It never takes images from Google Images or competitors.
 
 ---
 
