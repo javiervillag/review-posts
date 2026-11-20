@@ -10,16 +10,16 @@ Real posts from real Google, BBB and website reviews, in the company's navy and 
 
 <table>
 <tr>
-<td><img src="examples/worleybyrd/1-short-quote.jpg" width="200"></td>
-<td><img src="examples/worleybyrd/2-review-card.jpg" width="200"></td>
-<td><img src="examples/worleybyrd/5-bbb-review.jpg" width="200"></td>
-<td><img src="examples/worleybyrd/6-website-testimonial.jpg" width="200"></td>
+<td><img src="examples/roofing/1-short-quote.jpg" width="200"></td>
+<td><img src="examples/roofing/2-review-card.jpg" width="200"></td>
+<td><img src="examples/roofing/5-bbb-review.jpg" width="200"></td>
+<td><img src="examples/roofing/6-website-testimonial.jpg" width="200"></td>
 </tr>
 <tr>
-<td><img src="examples/worleybyrd/3-carousel-slide-1.jpg" width="200"></td>
-<td><img src="examples/worleybyrd/4-carousel-slide-2.jpg" width="200"></td>
-<td><img src="examples/worleybyrd/7-short-quote.jpg" width="200"></td>
-<td><img src="examples/worleybyrd/8-review-card.jpg" width="200"></td>
+<td><img src="examples/roofing/3-carousel-slide-1.jpg" width="200"></td>
+<td><img src="examples/roofing/4-carousel-slide-2.jpg" width="200"></td>
+<td><img src="examples/roofing/7-short-quote.jpg" width="200"></td>
+<td><img src="examples/roofing/8-review-card.jpg" width="200"></td>
 </tr>
 </table>
 
@@ -117,4 +117,4 @@ You get:
 
 ---
 
-<sub>Example posts: WorleyByrd Roofing &amp; Restoration (logo, photos and brand are theirs; reviews are public). The landscaper and dentist brands are made up. Neighborhood photos are from Unsplash. Fonts: Playfair Display, Poppins and Raleway (SIL Open Font License, license files included). Code: MIT License.</sub>
+<sub>Example posts belong to the business shown (logo, photos and brand are theirs; reviews are public). The landscaper and dentist brands are made up. Neighborhood photos are from Unsplash. Fonts: Playfair Display, Poppins and Raleway (SIL Open Font License, license files included). Code: MIT License.</sub>
