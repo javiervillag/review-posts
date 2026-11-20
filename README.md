@@ -4,9 +4,9 @@
 
 Works for any business: roofers, dentists, landscapers, salons, restaurants, and more. Give it your website once. It picks up your logo, colors and fonts, finds good background photos, and asks where your reviews live (Google, Yelp, BBB, Facebook, Trustpilot and others). After that, you just say **"make review posts"**.
 
-### Made for WorleyByrd Roofing & Restoration
+### Example: a roofing company
 
-These are real posts from real Google, BBB and website reviews, in WorleyByrd's navy and gold, on their own drone photos and on neighborhood aerials from the areas they serve:
+Real posts from real Google, BBB and website reviews, in the company's navy and gold, on their own drone photos and on neighborhood aerials from the areas they serve:
 
 <table>
 <tr>
