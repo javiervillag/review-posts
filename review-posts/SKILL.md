@@ -107,7 +107,7 @@ Use `review_links` in `settings.json`. **If you have a browser** (Claude in Chro
 Rules:
 - **5-star only.** Skip anything lower, unless the person asks otherwise in `settings.json` (`only_stars`).
 - **Same review in two places** (a customer often posts on Google and BBB, or a site reposts Google reviews): make **one** post. Prefer the copy with no redactions.
-- **Photos in the review:** if the reviewer attached photos of the work, download the largest one into `photos/from-reviews/` and set `"photo"` on that review. It becomes that post's background.
+- **Customer photos and profile pictures:** reviews with photos make the best posts, so look for them on purpose, including older 5-star reviews with photos that aren't in `seen.json` yet. When a reviewer attached a photo that works as a background (the finished roof, the house, the crew; sharp; no text, labels or watermark), save it in `photos/from-reviews/` and set `"photo"` on that review: it becomes that post's background, and only that post's. Crop a before/after collage down to the "after" panel. If no photo works, leave `photo` out and the post uses the normal rotation. Save a real profile picture to `photos/avatars/` and set `"avatar"`; skip Google's default one-letter icons. The details are in `reference/find-reviews.md` ("Customer photos and profile pictures"). In the hand-over, say which posts use the customer's own photo.
 - Reviews already in `seen.json` are skipped automatically. Say how many were new.
 
 ### 2. Write `reviews.json` (you do this; the person never sees it)
